@@ -18,16 +18,20 @@ The Flex Horizon Banking Service, website and/or software application (collectiv
 <p>
 This is a contract. <br/>
 These Terms constitute a contract between you and FHBank. If you do not accept these Terms, please do not use the Service. By using any part of the Service, you accept these Terms.<br/> If you are under eighteen (18) years of age, you must not use the Service. You must register a wallet account with valid information. <br/>To use the Service, you must: <br/>(a) provide a valid mobile phone number; <br/>(b) agree that an account associated with such number be created; <br/>(c) accept the current Terms; and <br/>(d) agree to submit such other (and additional) information as FHBank may request in line with regulatory/legal provisions. <br/>
-You agree to provide true, accurate and complete information about yourself as prompted by FHBank during the account registration process.<br/> You must ensure that any third-party information you provide to FHBank has been authorized appropriately. <br/>You will be given the option of receiving a unique PIN for purposes of reusing your account. <br/>You are responsible for keeping your PIN secure at all times, without reservation. <br/>For the avoidance of doubt, FHBank will not be responsible when/where you compromise your details by disclosing it to third parties.
+<br/>You agree to provide true, accurate and complete information about yourself as prompted by FHBank during the account registration process. 
+<br/>You must ensure that any third-party information you provide to FHBank has been authorized appropriately. 
+<br/>You will be given the option of receiving a unique PIN for purposes of reusing your account. 
+<br/>You are responsible for keeping your PIN secure at all times, without reservation. 
+<br/>For the avoidance of doubt, FHBank will not be responsible when/where you compromise your details by disclosing it to third parties.
 <br/>
-Third-party merchants offer the goods & services. <br/>The Service provides an opportunity to discover offers from independent third-party merchants (“Merchants”). These Merchants sell their respective Products subject to their own terms and conditions. To illustrate:<br/>
+Third-party merchants offer the goods & services. <br/>The Service provides an opportunity to discover offers from independent third-party merchants (“Merchants”). These Merchants sell their respective Products subject to their own terms and conditions. To illustrate:
 
-Airtime: If you choose to purchase pre-paid airtime, you do so pursuant to the relevant terms and conditions of your mobile telecommunications provider.<br/>
+<br/>Airtime: If you choose to purchase pre-paid airtime, you do so pursuant to the relevant terms and conditions of your mobile telecommunications provider.<br/>
 
-Utilities: If you choose to purchase pre-paid electricity or water, you do so pursuant to the relevant terms and conditions of the utility provider.<br/>
+<br/>Utilities: If you choose to purchase pre-paid electricity or water, you do so pursuant to the relevant terms and conditions of the utility provider.<br/>
 
 
-If you decide to purchase Products such as these from third party Merchants, you do so at your own risk and subject to the relevant Merchant’s terms and conditions. We are unable to investigate, monitor, or check the products for accuracy, reliability, appropriateness or completeness. By granting you access to discover the Products via the Service, FHBank does not imply approval or endorsement of such Products. You therefore agree that FHBank is not responsible or liable for the Products you purchase from Merchants.
+<br/>If you decide to purchase Products such as these from third party Merchants, you do so at your own risk and subject to the relevant Merchant’s terms and conditions. We are unable to investigate, monitor, or check the products for accuracy, reliability, appropriateness or completeness. By granting you access to discover the Products via the Service, FHBank does not imply approval or endorsement of such Products. You therefore agree that FHBank is not responsible or liable for the Products you purchase from Merchants.
 
 Payments are processed by third parties.In order to facilitate your purchases from Merchants, FHBank has integrated its Service with the billing solutions of certain mobile money providers and credit card issuing banks (“Payment Processors”). When you purchase a Product from a Merchant using your supported mobile money wallet or account or debit/credit card, payments will be processed by such Payment Processors. Payment Processors have their own terms and conditions governing your use of their payment services. You understand and agree that OPay does not process payments and is not responsible or liable for any transactions in which you engage. By engaging in a purchase transaction using your mobile money account or debit/credit card, you authorize the Merchant (or FHBank on its behalf) to bill your account or card for the purchase amount.
 
