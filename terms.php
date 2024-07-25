@@ -13,10 +13,10 @@ The Flex Horizon Banking Service, website and/or software application (collectiv
  The Service is operated by Flex Horizon Bank(“FHBank”), subject to these Terms of Service (“Terms”).
 </p>
 <br/>
-<h4>Terms of Services</h4>
+<b><h4>Terms of Services</h4><b>
 <br/>
 <p>
-<b>This is a contract.<b> <br/>
+This is a contract. <br/>
 These Terms constitute a contract between you and FHBank. If you do not accept these Terms, please do not use the Service. By using any part of the Service, you accept these Terms.<br/> If you are under eighteen (18) years of age, you must not use the Service. You must register a wallet account with valid information. <br/>To use the Service, you must: <br/>(a) provide a valid mobile phone number; <br/>(b) agree that an account associated with such number be created; <br/>(c) accept the current Terms; and <br/>(d) agree to submit such other (and additional) information as FHBank may request in line with regulatory/legal provisions.<br/> You agree to provide true, accurate and complete information about yourself as prompted by FHBank during the account registration process.<br/> You must ensure that any third-party information you provide to FHBank has been authorized appropriately. <br/>You will be given the option of receiving a unique PIN for purposes of reusing your account. <br/>You are responsible for keeping your PIN secure at all times, without reservation. <br/>For the avoidance of doubt, FHBank will not be responsible when/where you compromise your details by disclosing it to third parties.
 <br/>
 Third-party merchants offer the goods & services. The Service provides an opportunity to discover offers from independent third-party merchants (“Merchants”). These Merchants sell their respective Products subject to their own terms and conditions. To illustrate:
