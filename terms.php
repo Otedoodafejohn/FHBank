@@ -37,7 +37,7 @@ Third-party merchants offer the goods & services. <br/>The Service provides an o
 <br/>Utilities: If you choose to purchase pre-paid electricity or water, you do so pursuant to the relevant terms and conditions of the utility provider.<br/>
 
 
-<br/>If you decide to purchase Products such as these from third party Merchants, you do so at your own risk and subject to the relevant Merchant’s terms and conditions. We are unable to investigate, monitor, or check the products for accuracy, reliability, appropriateness or completeness. By granting you access to discover the Products via the Service, FHBank does not imply approval or endorsement of such Products. You therefore agree that FHBank is not responsible or liable for the Products you purchase from Merchants.
+<!-- <br/>If you decide to purchase Products such as these from third party Merchants, you do so at your own risk and subject to the relevant Merchant’s terms and conditions. We are unable to investigate, monitor, or check the products for accuracy, reliability, appropriateness or completeness. By granting you access to discover the Products via the Service, FHBank does not imply approval or endorsement of such Products. You therefore agree that FHBank is not responsible or liable for the Products you purchase from Merchants.
 
 Payments are processed by third parties.In order to facilitate your purchases from Merchants, FHBank has integrated its Service with the billing solutions of certain mobile money providers and credit card issuing banks (“Payment Processors”). When you purchase a Product from a Merchant using your supported mobile money wallet or account or debit/credit card, payments will be processed by such Payment Processors. Payment Processors have their own terms and conditions governing your use of their payment services. You understand and agree that OPay does not process payments and is not responsible or liable for any transactions in which you engage. By engaging in a purchase transaction using your mobile money account or debit/credit card, you authorize the Merchant (or FHBank on its behalf) to bill your account or card for the purchase amount.
 
@@ -64,7 +64,7 @@ Whole Agreement. This Agreement constitutes the whole agreement between the part
 Waiver/Relaxation. No relaxation or indulgence which OPay may show to you shall in any way prejudice or be deemed to be a waiver of its rights hereunder.
 
 Survival. Each and every provision of this Agreement (excluding only those provisions which are essential at law for a valid and binding Agreement to be constituted) shall be deemed to be separate and severable from the remaining provisions of this Agreement. If any of the provisions of this Agreement (excluding only those provisions which are essential at law for a valid and binding Agreement to be constituted) is found by any court of competent jurisdiction to be invalid and/or unenforceable then, notwithstanding such invalidity and/or unenforceability, the remaining provisions of this Agreement shall be (and remain) of full force and effect.
-</p>
+</p> -->
 <?php
     require_once("assets/footer.php");
 ?>
