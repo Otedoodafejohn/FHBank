@@ -13,7 +13,7 @@ The Flex Horizon Banking Service, website and/or software application (collectiv
  The Service is operated by Flex Horizon Bank(“FHBank”), subject to these Terms of Service (“Terms”).
 </p>
 <br/>
-<b><h4>Terms of Services</h4><b>
+<h4>Terms of Services</h4>
 <br/>
 <p>
 This is a contract. <br/>
