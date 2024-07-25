@@ -5,19 +5,17 @@
 <link rel="stylesheet" href="fhbCSS/terms.css">
 <h2>Terms & Conditions</h2>
 
+ <h3>WELCOME TO FLEX HORIZON BANK!</h3>
 
-<p>
-    <h3>WELCOME TO FLEX HORIZON BANK!</h3>
-</p>
 
 <p>
 The Flex Horizon Banking Service, website and/or software application (collectively, the “Service”) enables you to transfer funds between your mobile money wallet and your bank account, as well as to the wallet/account of another user. <br/>
  It also enables you, through your supported mobile money wallet, account or debit/credit card, to pay for products and services offered by third parties (“Products”).<br/>
  The Service is operated by Flex Horizon Bank(“FHBank”), subject to these Terms of Service (“Terms”).
 </p>
-<p>
-    <h4>Terms of Services</h4>
-</p>
+
+<h4>Terms of Services</h4>
+
 
 <p>
 <b>This is a contract.<b> These Terms constitute a contract between you and FHBank. If you do not accept these Terms, please do not use the Service. By using any part of the Service, you accept these Terms. If you are under eighteen (18) years of age, you must not use the Service.
